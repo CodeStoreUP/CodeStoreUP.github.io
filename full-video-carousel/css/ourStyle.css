@@ -39,7 +39,6 @@ body{
     justify-content: space-between;
 }
 .container_buttons{
-    background: rgba(0,0,0,0.3);
     width: 100%;
     padding: 100px;
     margin: 250px auto;
