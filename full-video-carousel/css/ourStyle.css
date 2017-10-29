@@ -18,6 +18,11 @@ body{
     background-attachment: fixed;
     background-color: #4285F4;
 }
+footer{
+    width: 100%;
+    position: absolute;
+    height: 205px;
+}
 /*tamaños*/
 .size-13{
     font-size: 10px;
